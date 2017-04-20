@@ -1,0 +1,26 @@
+{
+  "name": "08-postgres-db",
+  "version": "1.0.0",
+  "description": "Day 8 Lab Assignment",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "fs": "0.0.1-security",
+    "pg": "^6.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffsford/08-postgres-db.git"
+  },
+  "author": "Bret Ladenburg, Jeff Ford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffsford/08-postgres-db/issues"
+  },
+  "homepage": "https://github.com/jeffsford/08-postgres-db#readme"
+}
